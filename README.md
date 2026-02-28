@@ -2,7 +2,7 @@
 
 A Machine Learning based Spam Detection system built using TF-IDF and Multinomial Naive Bayes.
 
-🚀 **Live Demo:https://spam-sms-detection-app-nteabswrh29w3wv95gv7b.streamlit.app
+🚀 **Live Demo:https://spam-sms-detection-app-ntaebswrh29w33vv95gv7b.streamlit.app/
 
 ---
 
